@@ -1,0 +1,5 @@
+task 2
+ repository2
+  create 5 repositories ; create 5 folders ; each folder -- each repository
+
+  clone using git clone
